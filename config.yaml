@@ -1,0 +1,11 @@
+ counter:
+  persist: 10
+
+ intervals:
+  time_persist: 1
+  btn_delay: 4
+  btn_long_delay: 8
+  farm_cicle: 1000
+
+ percents:
+    confidence: 0.7
